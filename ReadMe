@@ -1,2 +1,10 @@
 CompSim is an open-source numerical model that computes the structural properties
-of inhomogenious structures that have complex geometry.
+of inhomogenious materials that have complex geometry. CompSim can be used as a complementary tool for trade-off studies in detailed design stage by providing initial design candidates. CompSim uses a weighted average technique combined with Euler–Bernoulli beam theory to extract the structural properties. Further details about the code can be found in:
+
+Ashuri, Turaj, and Jie Zhang. "CompSim: Cross sectional modeling of geometrical complex and inhomogeneous slender structures." SoftwareX 6 (2017): 155-160.
+
+Link to download freely the paper is:
+http://www.sciencedirect.com/science/article/pii/S2352711017300109
+
+
+
